@@ -1,11 +1,20 @@
 # MODELLING-OF-UNDERWATER-ROV
 This project involves designing and analyzing an autonomous ROV for underwater inspection, developed in Fusion 360 and SolidWorks. Equipped with propulsion, sensors, and a communication module, it enables ocean floor navigation and monitoring.
 
+project flowchart
+  
 ![image](https://github.com/user-attachments/assets/4560b306-a956-4b6d-88e3-0d841c03d3ca)
 
-project flowchart
+Turtle-Inspired Mini Underwater ROV Design
 
 ![image](https://github.com/user-attachments/assets/69d36a02-2bbd-4d6c-a2cb-7d078e265f04)
 
-   We have created design based on the inspiration on turtle the base model is done that the design of the rover is developed. Mini Underwater ROV frame design can be shown above. In this model, closed frame type was used in design developing. This type of frame is used because it is compact and solid so it will not be easily brittle if hit by a collision.The main body that is designed in a cylindrical shape is positioned in center of body because the design is very suitable to be used for vehicles underwater vehicles, especially when moving. The main body on model functions as a place for various electrical components such as batteries, microcontrollers, motor drivers, receivers and so on. The configuration of the thruster used in the developmental design is side by side which has five thrusters.The two pairs of thrusters which is positioned vertically on the left and right sides of the main body near the electronic housing which serves to move the model in two direction there are up and down. Another, two pairs of other thrusters are positioned horizontally on the back of the left and right sides of the main body which serves to move the model in four directions, there are forward, backward, left, right and rotational. In addition, in horizontal thruster can be moved to vertical position a horizontal gear shaft is installed to increase the efficiency of the thruster to perform up and down motion smoothly. And Various analysis in done in the model we have created shown in the below figure based on two material Acrylic and Polycarbonate.
+This turtle-inspired ROV features a compact, closed-frame cylindrical body housing key electronics (batteries, microcontrollers, etc.), ideal for underwater movement. The frame is robust against impacts, with five thrusters configured for precise maneuvering: two vertical thrusters for up/down movement and two horizontal, adjustable thrusters for forward, backward, lateral, and rotational motion. Analysis of the frame was conducted using Acrylic and Polycarbonate materials to ensure durability and efficiency in underwater conditions.
 
+Analysis
+
+![image](https://github.com/user-attachments/assets/80f693d2-1e2f-49de-960b-2daebd09fd8b)
+
+The ROV is designed to withstand up to 10 bar of pressure, providing a safety factor of 8 at 100 meters depth. Collision tests indicate high durability at the edges, though minor denting may occur near thruster connections at maximum depth, risking leakage. The model's buoyancy supports a load capacity of 20 kg, with each thruster capable of handling 5 kg, ensuring maneuverability in compact spaces. For neutral buoyancy, flotation materials like rigid Polyurethane foam balance the heavier components.
+
+The frame, essential for stability and strength, is designed from high-density polyethylene (HDPE) due to its corrosion resistance, lightweight properties, and ease of machining. Stainless Steel and Aluminum offer strength but are prone to corrosion; Polypropylene and HDPE provide corrosion resistance, with HDPE selected as the optimal material for the frame.
