@@ -1,17 +1,17 @@
 # MODELLING-OF-UNDERWATER-ROV
 This project involves designing and analyzing an autonomous ROV for underwater inspection, developed in Fusion 360 and SolidWorks. Equipped with propulsion, sensors, and a communication module, it enables ocean floor navigation and monitoring.
 
-project flowchart
+##  project flowchart
   
 ![image](https://github.com/user-attachments/assets/4560b306-a956-4b6d-88e3-0d841c03d3ca)
 
-Turtle-Inspired Mini Underwater ROV Design
+##  Turtle-Inspired Mini Underwater ROV Design
 
 ![image](https://github.com/user-attachments/assets/69d36a02-2bbd-4d6c-a2cb-7d078e265f04)
 
 This turtle-inspired ROV features a compact, closed-frame cylindrical body housing key electronics (batteries, microcontrollers, etc.), ideal for underwater movement. The frame is robust against impacts, with five thrusters configured for precise maneuvering: two vertical thrusters for up/down movement and two horizontal, adjustable thrusters for forward, backward, lateral, and rotational motion. Analysis of the frame was conducted using Acrylic and Polycarbonate materials to ensure durability and efficiency in underwater conditions.
 
-Analysis
+## Analysis
 
 ![image](https://github.com/user-attachments/assets/80f693d2-1e2f-49de-960b-2daebd09fd8b)
 
