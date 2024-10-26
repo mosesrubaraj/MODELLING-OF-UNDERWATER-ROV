@@ -1,7 +1,7 @@
 # MODELLING-OF-UNDERWATER-ROV
 This project involves designing and analyzing an autonomous ROV for underwater inspection, developed in Fusion 360 and SolidWorks. Equipped with propulsion, sensors, and a communication module, it enables ocean floor navigation and monitoring.
 
-##  project flowchart
+##  Project Flowchart
   
 ![image](https://github.com/user-attachments/assets/4560b306-a956-4b6d-88e3-0d841c03d3ca)
 
